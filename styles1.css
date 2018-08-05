@@ -1,0 +1,36 @@
+#order-table1{
+  border-style: groove;
+  padding: 2% 0% 2% 4%;    
+  margin-left: 5%;
+}
+#bread-table{
+  border-style: groove;
+}
+#bread-table2{
+  border-style: groove;
+  margin-left: 5%;
+  margin-top: 7%;
+}
+.new-line-bt2{
+  margin-top: 10%;
+}
+#option-bread{
+  margin-left: 5%;
+}
+#product-options{
+  font-weight: 200;
+}
+#table-title{
+  text-align: center;
+}
+#text-title{
+  margin: 0% 0% 0% 0%;
+}
+#button-submit{
+  margin: 2% 0% 0% 74%;
+}
+#show-sub{
+  border-style: groove;
+  margin-left: 2%;
+  height: 100%;
+}
